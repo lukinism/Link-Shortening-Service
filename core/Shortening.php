@@ -2,7 +2,7 @@
 
 namespace Shortening;
 
-class пShortening
+class Shortening
 {
     static function shortLinks(string $links) : array
     {
